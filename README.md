@@ -4,7 +4,7 @@
 
 [React Native] bridging library that integrates WeChat SDKs:
 
-- [x] iOS SDK 1.8.2
+- [x] iOS SDK 1.8.7
 - [x] Android SDK ++
 
 [react-native-wechat] has the following tracking data in the open source world:
